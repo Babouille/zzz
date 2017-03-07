@@ -7,7 +7,7 @@ package zzz;
 			public final static int TOMAYTO = 0;
 			public final static int TOMAHTO = 1;
 
-//qsdfgjjdrfghjjjjjjrfghhhhhhhhhhhhhhhh
+//qsdfgjjdrfghjjjjjjrfg234567890°
 			static void argue() {
 			int say = TOMAYTO;
 			while (true) {
